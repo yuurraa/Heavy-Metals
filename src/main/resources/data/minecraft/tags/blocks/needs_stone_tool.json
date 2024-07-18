@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "metalmod:zinc_block",
+    "metalmod:zinc_ore",
+    "metalmod:deepslate_zinc_ore"
+  ]
+}

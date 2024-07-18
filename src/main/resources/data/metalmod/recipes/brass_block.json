@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "metalmod:brass_ingot"
+    }
+  },
+  "result": {
+    "item": "metalmod:brass_block"
+  }
+}

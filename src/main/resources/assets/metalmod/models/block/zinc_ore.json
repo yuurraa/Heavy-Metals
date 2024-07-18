@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "metalmod:block/zinc_ore"
+  }
+}

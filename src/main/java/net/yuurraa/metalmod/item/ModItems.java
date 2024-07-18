@@ -11,6 +11,12 @@ public class ModItems {
     public static final DeferredRegister<Item> ITEMS =
             DeferredRegister.create(ForgeRegistries.ITEMS, MetalMod.MOD_ID);
 
+    public static void register(IEventBus eventBus) {
+        ITEMS.register(eventBus);
+    }
+
+
+    // ITEMS START FROM HERE
     public static final RegistryObject<Item> BRASS_INGOT = ITEMS.register("brass_ingot",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.METAL_TAB)));
 
@@ -19,8 +25,5 @@ public class ModItems {
 
     public static final RegistryObject<Item> ZINC_INGOT = ITEMS.register("zinc_ingot",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.METAL_TAB)));
-
-    public static void register(IEventBus eventBus) {
-        ITEMS.register(eventBus);
-    }
+    // ITEMS END FROM HERE
 }
