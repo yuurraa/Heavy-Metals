@@ -33,6 +33,6 @@ public class ModPlacedFeatures {
     // PLACE THE ORES HERE
     public static final RegistryObject<PlacedFeature> ZINC_ORE_PLACED = PLACED_FEATURES.register("zinc_ore_placed",
             () -> new PlacedFeature(ModConfiguredFeatures.ZINC_ORE.getHolder().get(),
-                    commonOrePlacement(10, // Veins per Chunk
-                            HeightRangePlacement.triangle(VerticalAnchor.aboveBottom(-80), VerticalAnchor.aboveBottom(80)))));
+                    commonOrePlacement(9, // Veins per Chunk
+                            HeightRangePlacement.triangle(VerticalAnchor.bottom(), VerticalAnchor.top()))));
 }
