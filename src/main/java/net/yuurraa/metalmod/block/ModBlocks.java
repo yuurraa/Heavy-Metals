@@ -1,11 +1,13 @@
 package net.yuurraa.metalmod.block;
 
+import net.minecraft.client.resources.sounds.Sound;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.DropExperienceBlock;
+import net.minecraft.world.level.block.SoundType;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraft.world.level.material.Material;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -41,20 +43,20 @@ public class ModBlocks {
     // BLOCKS START FROM HERE
     public static final RegistryObject<Block> BRASS_BLOCK = registryBlock("brass_block",
             () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
-                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.METAL_TAB);
+                    .strength(5f, 6f).requiresCorrectToolForDrops().sound(SoundType.METAL)), ModCreativeModeTab.METAL_TAB);
 
     public static final RegistryObject<Block> ZINC_ORE = registryBlock("zinc_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(6f).requiresCorrectToolForDrops(),
+                    .strength(6f).requiresCorrectToolForDrops().sound(SoundType.STONE),
                     UniformInt.of(3, 7)), ModCreativeModeTab.METAL_TAB);
 
     public static final RegistryObject<Block> DEEPSLATE_ZINC_ORE = registryBlock("deepslate_zinc_ore",
             () -> new DropExperienceBlock(BlockBehaviour.Properties.of(Material.STONE)
-                    .strength(6f).requiresCorrectToolForDrops(),
+                    .strength(4.5f, 3f).requiresCorrectToolForDrops().sound(SoundType.DEEPSLATE),
                     UniformInt.of(3, 7)), ModCreativeModeTab.METAL_TAB);
 
     public static final RegistryObject<Block> ZINC_BLOCK = registryBlock("zinc_block",
             () -> new Block(BlockBehaviour.Properties.of(Material.METAL)
-                    .strength(6f).requiresCorrectToolForDrops()), ModCreativeModeTab.METAL_TAB);
+                    .strength(5f, 6f).requiresCorrectToolForDrops().sound(SoundType.METAL)), ModCreativeModeTab.METAL_TAB);
     // BLOCKS END FROM HERE
 }
