@@ -1,4 +1,4 @@
-# Heavy Metals [v0.1.0]
+# Heavy Metals [v0.1.0-1.19.2]
 
 ## Description
 Heavy Metals is a Minecraft mod for Minecraft v1.19.2, adding metals along with reactions.
