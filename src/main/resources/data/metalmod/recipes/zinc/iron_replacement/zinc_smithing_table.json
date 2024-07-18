@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "II",
+    "II"
+  ],
+  "key": {
+    "#": {
+      "item": "metalmod:zinc_ingot"
+    },
+    "I": {
+      "item": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:smithing_table"
+  }
+}

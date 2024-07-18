@@ -25,5 +25,8 @@ public class ModItems {
 
     public static final RegistryObject<Item> ZINC_INGOT = ITEMS.register("zinc_ingot",
             () -> new Item(new Item.Properties().tab(ModCreativeModeTab.METAL_TAB)));
+
+    public static final RegistryObject<Item> ZINC_NUGGET = ITEMS.register("zinc_nugget",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.METAL_TAB)));
     // ITEMS END FROM HERE
 }

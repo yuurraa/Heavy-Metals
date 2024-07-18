@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "#B#",
+    "#A#"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:planks"
+    },
+    "#": {
+      "item": "minecraft:cobblestone"
+    },
+    "A": {
+      "item": "minecraft:redstone"
+    },
+    "B": {
+      "item": "metalmod:zinc_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:piston"
+  }
+}

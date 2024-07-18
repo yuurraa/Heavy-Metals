@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I I",
+    "I#I",
+    "I I"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "I": {
+      "item": "metalmod:zinc_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:rail"
+  }
+}

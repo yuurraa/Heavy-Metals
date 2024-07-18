@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "metalmod:zinc_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:bucket",
+    "count": 1
+  }
+}

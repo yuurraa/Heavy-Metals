@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "# #",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "metalmod:zinc_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:cauldron",
+    "count": 1
+  }
+}

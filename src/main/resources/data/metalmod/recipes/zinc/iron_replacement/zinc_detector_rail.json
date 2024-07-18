@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "I I",
+    "I#I",
+    "IAI"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stone_pressure_plater"
+    },
+    "I": {
+      "item": "metalmod:zinc_ingot"
+    },
+    "A": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "minecraft:compass",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "I#I",
+    "BAB"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:crafting_table"
+    },
+    "I": {
+      "item": "metalmod:zinc_ingot"
+    },
+    "A": {
+      "item": "metalmod:dropper"
+    },
+    "B": {
+      "item": "metalmod:redstone"
+    }
+  },
+  "result": {
+    "item": "minecraft:crafter",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " # ",
+    "III"
+  ],
+  "key": {
+    "#": {
+      "item": "metalmod:zinc_ingot"
+    },
+    "I": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "minecraft:stonecutter"
+  }
+}

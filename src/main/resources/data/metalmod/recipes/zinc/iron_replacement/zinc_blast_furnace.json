@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#A#",
+    "III"
+  ],
+  "key": {
+    "#": {
+      "item": "metalmod:zinc_ingot"
+    },
+    "I": {
+      "item": "minecraft:smooth_stone"
+    },
+    "A": {
+      "item": "minecraft:furnace"
+    }
+  },
+  "result": {
+    "item": "minecraft:blast_furnace",
+    "count": 1
+  }
+}
