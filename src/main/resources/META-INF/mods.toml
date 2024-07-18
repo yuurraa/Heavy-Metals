@@ -40,7 +40,7 @@ authors="yuurraa" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-Heavy Metals is a mod that adds metals with reactions.
+Heavy Metals is a Minecraft mod for 1.19.2, adding metals along with reactions.
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.metalmod]] #optional
