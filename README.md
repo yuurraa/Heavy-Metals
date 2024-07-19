@@ -17,7 +17,7 @@ Forge v1.19.2-43.x Download: https://files.minecraftforge.net/net/minecraftforge
   - Normal and deepslate Zinc ore variants, ingot, nugget and block, as well as raw Zinc.  
   - Zinc ore generates as frequently as Iron ore.
   - Zinc can be used as a replacement for almost all Iron recipes.
-  - Zinc tools.
+  - Zinc tools: Faster and deadlier than Iron, but with noticeably less durability.
 - Brass
   - Ingot and block.
   - Crafted with Zinc and Copper ingots. (Subjected to change)
