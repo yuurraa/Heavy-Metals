@@ -1,8 +1,10 @@
-# Heavy Metals [v0.1.0-1.19.2]
+# Heavy Metals
 
 ## Description
 Heavy Metals is a Minecraft mod for Minecraft v1.19.2, adding metals along with reactions.
-It is compatible with Forge v1.19.2-43.x and above.
+It is compatible with Forge v1.19.2-43.x and above. 
+
+Currently, the latest stable release is Heavy Metals v0.1.0-1.19.2.
 
 ## Installation
 To install Heavy Metals, simply download the latest stable release of the mod file, drag and drop it into your "mods" folder in ".minecraft". 
@@ -16,6 +18,6 @@ You will require a working and compatible Forge version installed as well.
   - Crafted with zinc and copper ingots. (Subjected to change)
 
 ## Download Latest (Stable)
-**Release TBA**
+[Heavy Metals v0.1.0-1.19.2 [Stable] Download](https://github.com/yuurraa/Heavy-Metals/releases/download/Stable/metalmod-0.1.0-1.19.2.jar)
 
 ### Spriter and Scripter: yuurraa
