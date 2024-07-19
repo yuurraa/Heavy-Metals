@@ -34,19 +34,19 @@ public class ModItems {
 
     // Tools
     public static final RegistryObject<Item> ZINC_SWORD = ITEMS.register("zinc_sword",
-            () -> new SwordItem(ModItemTier.ZINC, 3, -2.4F, new Item.Properties().tab(ModCreativeModeTab.METAL_TAB)));
+            () -> new SwordItem(ModItemTier.ZINC, 3, -2.2F, new Item.Properties().tab(ModCreativeModeTab.METAL_TAB)));
 
     public static final RegistryObject<Item> ZINC_PICKAXE = ITEMS.register("zinc_pickaxe",
-            () -> new PickaxeItem(ModItemTier.ZINC, 1, -2.8F, new Item.Properties().tab(ModCreativeModeTab.METAL_TAB)));
+            () -> new PickaxeItem(ModItemTier.ZINC, 1, -2.6F, new Item.Properties().tab(ModCreativeModeTab.METAL_TAB)));
 
     public static final RegistryObject<Item> ZINC_AXE = ITEMS.register("zinc_axe",
-            () -> new AxeItem(ModItemTier.ZINC, 5, -3.0F, new Item.Properties().tab(ModCreativeModeTab.METAL_TAB)));
+            () -> new AxeItem(ModItemTier.ZINC, 5, -2.8F, new Item.Properties().tab(ModCreativeModeTab.METAL_TAB)));
 
     public static final RegistryObject<Item> ZINC_SHOVEL = ITEMS.register("zinc_shovel",
-            () -> new ShovelItem(ModItemTier.ZINC, 1.5F, -3.0F, new Item.Properties().tab(ModCreativeModeTab.METAL_TAB)));
+            () -> new ShovelItem(ModItemTier.ZINC, 1.5F, -2.8F, new Item.Properties().tab(ModCreativeModeTab.METAL_TAB)));
 
     public static final RegistryObject<Item> ZINC_HOE = ITEMS.register("zinc_hoe",
-            () -> new HoeItem(ModItemTier.ZINC, -2, -1.0F, new Item.Properties().tab(ModCreativeModeTab.METAL_TAB)));
+            () -> new HoeItem(ModItemTier.ZINC, -2, -0.8F, new Item.Properties().tab(ModCreativeModeTab.METAL_TAB)));
     // Zinc End
     // ITEMS END FROM HERE
 }

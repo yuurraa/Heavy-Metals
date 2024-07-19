@@ -6,7 +6,7 @@ import net.minecraft.world.item.crafting.Ingredient;
 import java.util.function.Supplier;
 
 public enum ModItemTier implements Tier {
-    ZINC(2, 190, 6.5F, 2.0F, 14, () -> Ingredient.of(ModItems.ZINC_INGOT.get().asItem()));
+    ZINC(2, 190, 7.5F, 2.5F, 14, () -> Ingredient.of(ModItems.ZINC_INGOT.get().asItem()));
 
     private final int level;
     private final int uses;
