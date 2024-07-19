@@ -4,6 +4,12 @@
   "item.metalmod.zinc_ingot": "Zinc Ingot",
   "item.metalmod.zinc_nugget": "Zinc Nugget",
 
+  "item.metalmod.zinc_sword": "Zinc Sword",
+  "item.metalmod.zinc_pickaxe": "Zinc Pickaxe",
+  "item.metalmod.zinc_axe": "Zinc Axe",
+  "item.metalmod.zinc_shovel": "Zinc Shovel",
+  "item.metalmod.zinc_hoe": "Zinc Hoe",
+
   "block.metalmod.brass_block": "Block of Brass",
   "block.metalmod.zinc_ore": "Zinc Ore",
   "block.metalmod.deepslate_zinc_ore": "Deepslate Zinc Ore",
