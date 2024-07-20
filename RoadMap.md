@@ -245,6 +245,24 @@
 - Base Mining Speed: 13.0
 - Enchantment Level: 18
 
+| Material        | Durability | Base Attack | Base Attack Speed | Base Mining Speed | Enchantment Level |
+|-----------------|------------|-------------|-------------------|-------------------|-------------------|
+| Wood	           | 59         | 4.0	        | 1.6	              | 2.0	              | 15                |          
+| Stone	          | 131	       | 5.0	        | 1.6	              | 4.0	              | 14                |          
+| Gold	           | 32	        | 4.0	        | 1.6	              | 12.0	             | 22                |         
+| Iron	           | 250	       | 6.0	        | 1.6	              | 6.0	              | 14                |         
+| Zinc	           | 180	       | 6.5	        | 1.8	              | 7.5	              | 14                |       
+| Bronze          | 	761	      | 6.5	        | 1.6	              | 8.5	              | 20                |     
+| Diamond	        | 1561	      | 7.0	        | 1.6	              | 8.0	              | 10                |     
+| White Gold	     | 1821	      | 7.5	        | 1.6	              | 8.5	              | 18                |   
+| Netherite       | 	2031	     | 8.0	        | 1.6	              | 9.0	              | 10                |  
+| Titanium	       | 1981	      | 9.0	        | 1.6	              | 10.0              | 	8                |
+| Tungsten Steel	 | 2551	      | 9.5	        | 1.8	              | 11.0	             | 13                |
+| Mythril	        | 2731	      | 10.0	       | 2.0	              | 12.0	             | 16                |
+| Adamantium	     | 3071	      | 10.0	       | 1.8	              | 11.5	             | 16                |
+| Orichalcum	     | 2851	      | 10.5	       | 1.8	              | 11.5	             | 16                |
+| Imperium	       | 3561	      | 12.0	       | 2.2	              | 13.0	             | 18                |
+
 
 ### Armour Progression Levels
 **Armour Points (AP) | Enchantment Level | Durability**
@@ -358,3 +376,63 @@
 - Boots: 6 | 20 | 653
 - Total: 30 AP
 - Armour Special Buff: Speed II, Resistance II, Strength II and 40% Knockback Resistance
+
+**Armour Points:**
+
+| Material	       | Helmet	 | Chestplate	    | Leggings	 | Boots	 | Total AP |
+|-----------------|---------|----------------|-----------|--------|----------|
+| Leather	        | 1	      | 3	             | 2	        | 1	     | 7        |
+| Chainmail	      | 1	      | 5	             | 4	        | 1	     | 11       |
+| Gold	           | 1	      | 5	             | 3	        | 1	     | 10       |
+| Iron	           | 2	      | 6	             | 5	        | 2	     | 15       |
+| Zinc	           | 2	      | 7	             | 6	        | 2      | 	17      |
+| Bronze	         | 3	      | 7	             | 6	        | 2	     | 18       |
+| Diamond	        | 3	      | 8           	  | 6	        | 3	     | 20       |
+| White Gold	     | 3	      | 8           	  | 6	        | 3	     | 20       |
+| Netherite	      | 3	      | 8            	 | 6	        | 3	     | 20       |
+| Titanium	       | 4	      | 8	             | 6         | 	4	    | 22       |
+| Tungsten Steel	 | 4	      | 9	             | 7	        | 4	     | 24       |
+| Mythril	        | 4	      | 9	             | 8	        | 5	     | 26       |
+| Adamantium	     | 6	      | 9	             | 8	        | 5	     | 28       |
+| Orichalcum	     | 5	      | 10	            | 8	        | 4	     | 27       |
+| Imperium	       | 6	      | 10	            | 8	        | 6	     | 30       |
+
+**Enchantment Level:**
+
+| Material	      | Helmet	 | Chestplate	 | Leggings | 	Boots |
+|----------------|---------|-------------|----------|--------|
+| Leather	       | 15      | 	25	        | 20	      | 15     | 
+| Chainmail	     | 12      | 	16         | 	14      | 	12    |
+| Gold	          | 25	     | 25	         | 22	      | 25     |    
+| Iron	          | 9	      | 14	         | 11	      | 9      |      
+| Zinc	          | 9	      | 14	         | 11	      | 9      |       
+| Bronze	        | 21	     | 21	         | 18       | 	21    |
+| Diamond	       | 10	     | 15	         | 13       | 	10    |
+| White Gold	    | 23	     | 23	         | 20	      | 23     |
+| Netherite      | 	15	    | 20	         | 17	      | 15     |
+| Titanium	      | 13	     | 18	         | 15	      | 13     |
+| Tungsten Steel | 18	     | 20	         | 17	      | 18     |
+| Mythril	       | 19	     | 21          | 	18      | 	19    |
+| Adamantium	    | 18	     | 20          | 	17	     | 18     |
+| Orichalcum	    | 18	     | 20	         | 17	      | 18     |
+| Imperium	      | 20	     | 22	         | 19       | 	20    |
+
+**Durability:**
+
+| Material	      | Helmet 	 | Chestplate 	 | Leggings | 	Boots |
+|----------------|----------|--------------|----------|--------|
+| Leather	       | 55	      | 80	          | 75	      | 65     |
+| Chainmail	     | 165	     | 240	         | 225      | 	195   |
+| Gold	          | 77	      | 112	         | 105	     | 93     |
+| Iron	          | 165	     | 240	         | 225	     | 195    |
+| Zinc	          | 115	     | 190	         | 175	     | 145    |
+| Bronze	        | 253	     | 437	         | 333	     | 312    |
+| Diamond	       | 363      | 	528	        | 495	     | 429    |
+| White Gold	    | 389	     | 562	         | 521      | 	459   |
+| Netherite	     | 407	     | 592	         | 555	     | 481    |
+| Titanium	      | 396	     | 576	         | 536	     | 469    |
+| Tungsten Steel | 	445	    | 634	         | 591      | 	523   |
+| Mythril	       | 480	     | 672	         | 633	     | 583    |
+| Adamantium	    | 509	     | 692	         | 654	     | 611    |
+| Orichalcum	    | 480	     | 672	         | 633	     | 583    |
+| Imperium	      | 555	     | 746	         | 701	     | 653    |
