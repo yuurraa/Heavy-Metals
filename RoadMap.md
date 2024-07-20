@@ -379,23 +379,23 @@
 
 **Armour Points:**
 
-| Material	       | Helmet	 | Chestplate	    | Leggings	 | Boots	 | Total AP |
-|-----------------|---------|----------------|-----------|--------|----------|
-| Leather	        | 1	      | 3	             | 2	        | 1	     | 7        |
-| Chainmail	      | 1	      | 5	             | 4	        | 1	     | 11       |
-| Gold	           | 1	      | 5	             | 3	        | 1	     | 10       |
-| Iron	           | 2	      | 6	             | 5	        | 2	     | 15       |
-| Zinc	           | 2	      | 7	             | 6	        | 2      | 	17      |
-| Bronze	         | 3	      | 7	             | 6	        | 2	     | 18       |
-| Diamond	        | 3	      | 8           	  | 6	        | 3	     | 20       |
-| White Gold	     | 3	      | 8           	  | 6	        | 3	     | 20       |
-| Netherite	      | 3	      | 8            	 | 6	        | 3	     | 20       |
-| Titanium	       | 4	      | 8	             | 6         | 	4	    | 22       |
-| Tungsten Steel	 | 4	      | 9	             | 7	        | 4	     | 24       |
-| Mythril	        | 4	      | 9	             | 8	        | 5	     | 26       |
-| Adamantium	     | 6	      | 9	             | 8	        | 5	     | 28       |
-| Orichalcum	     | 5	      | 10	            | 8	        | 4	     | 27       |
-| Imperium	       | 6	      | 10	            | 8	        | 6	     | 30       |
+| Material	       | Helmet	 | Chestplate	    | Leggings	 | Boots	 | Total Armour Points |
+|-----------------|---------|----------------|-----------|--------|---------------------|
+| Leather	        | 1	      | 3	             | 2	        | 1	     | 7                   |
+| Chainmail	      | 1	      | 5	             | 4	        | 1	     | 11                  |
+| Gold	           | 1	      | 5	             | 3	        | 1	     | 10                  |
+| Iron	           | 2	      | 6	             | 5	        | 2	     | 15                  |
+| Zinc	           | 2	      | 7	             | 6	        | 2      | 	17                 |
+| Bronze	         | 3	      | 7	             | 6	        | 2	     | 18                  |
+| Diamond	        | 3	      | 8           	  | 6	        | 3	     | 20                  |
+| White Gold	     | 3	      | 8           	  | 6	        | 3	     | 20                  |
+| Netherite	      | 3	      | 8            	 | 6	        | 3	     | 20                  |
+| Titanium	       | 4	      | 8	             | 6         | 	4	    | 22                  |
+| Tungsten Steel	 | 4	      | 9	             | 7	        | 4	     | 24                  |
+| Mythril	        | 4	      | 9	             | 8	        | 5	     | 26                  |
+| Adamantium	     | 6	      | 9	             | 8	        | 5	     | 28                  |
+| Orichalcum	     | 5	      | 10	            | 8	        | 4	     | 27                  |
+| Imperium	       | 6	      | 10	            | 8	        | 6	     | 30                  |
 
 **Enchantment Level:**
 
