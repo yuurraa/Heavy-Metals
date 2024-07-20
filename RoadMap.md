@@ -399,40 +399,40 @@
 
 **Enchantment Level:**
 
-| Material	      | Helmet	 | Chestplate	 | Leggings | 	Boots |
-|----------------|---------|-------------|----------|--------|
-| Leather	       | 15      | 	25	        | 20	      | 15     | 
-| Chainmail	     | 12      | 	16         | 	14      | 	12    |
-| Gold	          | 25	     | 25	         | 22	      | 25     |    
-| Iron	          | 9	      | 14	         | 11	      | 9      |      
-| Zinc	          | 9	      | 14	         | 11	      | 9      |       
-| Bronze	        | 21	     | 21	         | 18       | 	21    |
-| Diamond	       | 10	     | 15	         | 13       | 	10    |
-| White Gold	    | 23	     | 23	         | 20	      | 23     |
-| Netherite      | 	15	    | 20	         | 17	      | 15     |
-| Titanium	      | 13	     | 18	         | 15	      | 13     |
-| Tungsten Steel | 18	     | 20	         | 17	      | 18     |
-| Mythril	       | 19	     | 21          | 	18      | 	19    |
-| Adamantium	    | 18	     | 20          | 	17	     | 18     |
-| Orichalcum	    | 18	     | 20	         | 17	      | 18     |
-| Imperium	      | 20	     | 22	         | 19       | 	20    |
+| Material	      | Helmet	 | Chestplate	 | Leggings | 	Boots | Total Enchantment Level |
+|----------------|---------|-------------|----------|--------|-------------------------|
+| Leather	       | 15      | 	25	        | 20	      | 15     | 75                      |
+| Chainmail	     | 12      | 	16         | 	14      | 	12    | 54                      |
+| Gold	          | 25	     | 25	         | 22	      | 25     | 97                      |
+| Iron	          | 9	      | 14	         | 11	      | 9      | 43                      | 
+| Zinc	          | 9	      | 14	         | 11	      | 9      | 43                      |  
+| Bronze	        | 21	     | 21	         | 18       | 	21    | 81                      |
+| Diamond	       | 10	     | 15	         | 13       | 	10    | 48                      |
+| White Gold	    | 23	     | 23	         | 20	      | 23     | 89                      |
+| Netherite      | 	15	    | 20	         | 17	      | 15     | 67                      |
+| Titanium	      | 13	     | 18	         | 15	      | 13     | 59                      |
+| Tungsten Steel | 18	     | 20	         | 17	      | 18     | 73                      |
+| Mythril	       | 19	     | 21          | 	18      | 	19    | 77                      |
+| Adamantium	    | 18	     | 20          | 	17	     | 18     | 73                      |
+| Orichalcum	    | 18	     | 20	         | 17	      | 18     | 73                      |
+| Imperium	      | 20	     | 22	         | 19       | 	20    | 81                      |
 
 **Durability:**
 
-| Material	      | Helmet 	 | Chestplate 	 | Leggings | 	Boots |
-|----------------|----------|--------------|----------|--------|
-| Leather	       | 55	      | 80	          | 75	      | 65     |
-| Chainmail	     | 165	     | 240	         | 225      | 	195   |
-| Gold	          | 77	      | 112	         | 105	     | 93     |
-| Iron	          | 165	     | 240	         | 225	     | 195    |
-| Zinc	          | 115	     | 190	         | 175	     | 145    |
-| Bronze	        | 253	     | 437	         | 333	     | 312    |
-| Diamond	       | 363      | 	528	        | 495	     | 429    |
-| White Gold	    | 389	     | 562	         | 521      | 	459   |
-| Netherite	     | 407	     | 592	         | 555	     | 481    |
-| Titanium	      | 396	     | 576	         | 536	     | 469    |
-| Tungsten Steel | 	445	    | 634	         | 591      | 	523   |
-| Mythril	       | 480	     | 672	         | 633	     | 583    |
-| Adamantium	    | 509	     | 692	         | 654	     | 611    |
-| Orichalcum	    | 480	     | 672	         | 633	     | 583    |
-| Imperium	      | 555	     | 746	         | 701	     | 653    |
+| Material	      | Helmet 	 | Chestplate 	 | Leggings | 	Boots | Total Durability |
+|----------------|----------|--------------|----------|--------|------------------|
+| Leather	       | 55	      | 80	          | 75	      | 65     | 275              |
+| Chainmail	     | 165	     | 240	         | 225      | 	195   | 195              |
+| Gold	          | 77	      | 112	         | 105	     | 93     | 387              |
+| Iron	          | 165	     | 240	         | 225	     | 195    | 825              |
+| Zinc	          | 115	     | 190	         | 175	     | 145    | 625              |
+| Bronze	        | 253	     | 437	         | 333	     | 312    | 1335             |
+| Diamond	       | 363      | 	528	        | 495	     | 429    | 1815             |
+| White Gold	    | 389	     | 562	         | 521      | 	459   | 1931             |
+| Netherite	     | 407	     | 592	         | 555	     | 481    | 2035             |
+| Titanium	      | 396	     | 576	         | 536	     | 469    | 1977             |
+| Tungsten Steel | 	445	    | 634	         | 591      | 	523   | 2193             |
+| Mythril	       | 480	     | 672	         | 633	     | 583    | 2368             |
+| Adamantium	    | 509	     | 692	         | 654	     | 611    | 2466             |
+| Orichalcum	    | 480	     | 672	         | 633	     | 583    | 2368             |
+| Imperium	      | 555	     | 746	         | 701	     | 653    | 2655             |
