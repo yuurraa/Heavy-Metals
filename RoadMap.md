@@ -113,6 +113,7 @@
 - Armour Special Buff: Speed II, Resistance II, Strength II and 40% Knockback Resistance
 
 
+## Crafting and Mechanics
 ### Crafting and Recipes
 **Electroplating Station**
 - Ingredients: Brass Ingots, Iron / Zinc Ingots, and Redstone
@@ -137,6 +138,7 @@
 - Wire acts like Redstone, but transmits electrical currents from a Lightning Rod instead
 
 
+## Tools and Armour
 ### Tool Progression Levels
 **Wood**
 - Durability: 59
