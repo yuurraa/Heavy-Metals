@@ -22,6 +22,9 @@ Forge v1.19.2-43.x Download: https://files.minecraftforge.net/net/minecraftforge
   - Ingot and block.
   - Crafted with Zinc and Copper ingots. (Subjected to change)
 
+## Road Map
+[Heavy Metals Road Map](RoadMap.md)
+
 ## Download Latest [Stable]
 [Heavy Metals v0.1.0-1.19.2 [Stable] Download](https://github.com/yuurraa/Heavy-Metals/releases/download/Stable/metalmod-0.1.0-1.19.2.jar)
 
